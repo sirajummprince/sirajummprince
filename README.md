@@ -5,7 +5,7 @@
 - 📫 How to reach me
   - :email: sirajummunirprince@gmail.com
   - :telephone_receiver: +8801915640824
-  - :earth_asia: sirajummprince.github.io
+  - :earth_asia: <https://www.sirajummprince.github.io>
 
 <!---
 sirajummprince/sirajummprince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
