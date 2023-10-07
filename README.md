@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on research oriented projects
 - 📫 How to reach me
   - :email: sirajummunirprince@gmail.com
-  - :telephone_receiver: +8801915640824
+  - :telephone_receiver: +14374224064
   - :earth_asia: <https://sirajummprince.github.io/>
 
 <!---
